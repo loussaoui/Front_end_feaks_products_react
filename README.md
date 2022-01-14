@@ -44,10 +44,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 | First Header  | signification |
 | ------------- | ------------- |
-| axios         | Axios est une bibliothèque JavaScript fonctionnant comme un client HTTP. Elle permet de communiquer avec des API en utilisant des requêtes. Comme avec les                       autres clients HTTP, il est possible de créer des requêtes avec la méthode POST. |
+| axios         | Axios is a JavaScript library that works as an HTTP client. It allows you to communicate with APIs using requests. As with other HTTP clients, it is possible                     to create requests with the POST method. |
 | DataGrid      | A fast and extendable react data table and react data grid. Take Row and columns of the tables  |
-| row           | Contitent le tableau de dataset  |
-| columns       | Comparable to rows, columns are objects defined with a set of attributes of the array. They are mapped to rows through their field property.  |
+| row           | Content the dataset array  |
+| columns       |Comparable to rows, columns are objects defined with a set of attributes of the array. They are mapped to rows through their field property.  |
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
